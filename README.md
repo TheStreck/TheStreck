@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-:computer: **Software Enginner**
+:computer: **Software Developer**
